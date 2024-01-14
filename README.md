@@ -41,22 +41,6 @@ python Optimizer_Main.py
 
 The project uses the "ENB2012_data.xlsx" dataset for cancer detection. It includes features X1 to X8 and the target variable Y1.
 
-## Results
-
-The genetic algorithm evolves a population over multiple generations, aiming to find the best hyperparameters for an SVM model. The final solution represents the convergence of the algorithm, while the best solution overall is the best-performing configuration found across all generations.
-
-### Convergence Results:
-
-- **Decoded C (Convergence):** [Real value of x]
-- **Decoded Gamma (Convergence):** [Real value of y]
-- **Obj Value - Convergence:** [Objective value of final chromosome]
-
-### Best Overall Results:
-
-- **Decoded C (Best):** [Real value of x]
-- **Decoded Gamma (Best):** [Real value of y]
-- **Obj Value - Best in Generations:** [Objective value of best chromosome]
-
 ## Acknowledgments
 
 This project was created by Haddany Abdelkhalek.
